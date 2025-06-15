@@ -26,7 +26,7 @@ Cette macro n'interagit pas avec les fichiers du jeu, elle simule uniquement des
 
 ---
 
-## 🇬🇧 Description
+# 🇬🇧 Description
 
 **HorseDash Macro** is a simple tool for **Rocket League** players who want to perform the popular "Horse Dash" with a single key press.
 
