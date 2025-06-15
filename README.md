@@ -14,7 +14,7 @@
 - Appuyez sur `F1` pour activer ou désactiver la macro  
 - La macro simule un spam de dashs ultra-rapide  
 - Fonctionne en arrière-plan, dans Rocket League  
-- Léger, rapide, sans installation
+- Léger, rapide, avec installation
 
 🛠️ **Utilisation** :
 1. Lancez Rocket League
@@ -34,7 +34,7 @@ Cette macro n'interagit pas avec les fichiers du jeu, elle simule uniquement des
 - Press `F1` to toggle the macro ON/OFF  
 - The macro simulates fast dash spamming  
 - Works in the background while Rocket League is running  
-- Lightweight and installation-free
+- Lightweight but installation
 
 🛠️ **How to use:**
 1. Launch Rocket League  
@@ -46,24 +46,10 @@ This macro does **not** modify any game files – it simulates keyboard inputs o
 
 ---
 
-## 🧪 Développement
+# 🧪 Developpement
 
-- Langage : Python / C++ (ou autre selon ton choix)
-- Support Windows uniquement
+- Language : Ahk
+- Support Windows 10 / 11
 - Licence : MIT
 
----
-
-## 📁 Téléchargement
-
-Téléchargez la dernière version ici :  
-👉 [Releases](https://github.com/votre-utilisateur/HorseDash/releases)
-
----
-
-## 💬 Contact
-
-Des questions ou suggestions ? Ouvre une *issue* ou contacte-moi sur Discord : **votreTag#0000**
-
----
 
