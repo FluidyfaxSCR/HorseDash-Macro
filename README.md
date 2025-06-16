@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="logo.png" alt="HorseDash-Macro Logo" width="400"/>
+  <img src="Logo.png" alt="HorseDash-Macro Logo" width="500"/>
 </p>
-
-
----
 
 # 🇫🇷 Description
 
